@@ -46,7 +46,7 @@ You can grab the latest version of the Spring Constraint in [Releases](https://g
 
 ## License
 
-Spring Constraint is available as-is under MIT. For more information see [LICENSE](https://github.com/VRLabs/Spring-Constraint/blob/dev/LICENSE).
+Spring Constraint is available as-is under MIT. For more information see [LICENSE](https://github.com/VRLabs/Spring-Constraint/blob/main/LICENSE).
 
 ## Contact us
 
