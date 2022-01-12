@@ -11,19 +11,6 @@
     <img src="https://img.shields.io/badge/Unity-2019.4-green.svg?style=flat-square">
   </a>
   <br />
-  <a href="https://github.com/VRLabs/Spring-Constraint/issues">
-    <img src="https://img.shields.io/github/issues-raw/VRLabs/Spring-Constraint.svg?style=flat-square">
-  </a>
-  <a href="https://github.com/VRLabs/Spring-Constraint/issues?q=is%3Aissue+is%3Aclosed">
-    <img src="https://img.shields.io/github/issues-closed-raw/VRLabs/Spring-Constraint.svg?style=flat-square">
-  </a>
-  <a href="https://github.com/VRLabs/Spring-Constraint/pull">
-    <img src="https://img.shields.io/github/issues-pr-raw/VRLabs/Spring-Constraint.svg?style=flat-square">
-  </a>
-  <a href="https://github.com/VRLabs/Spring-Constraint/pulls?q=is%3Apr+is%3Aclosed">
-    <img src="https://img.shields.io/github/issues-pr-closed-raw/VRLabs/Spring-Constraint.svg?style=flat-square">
-  </a>
-  <br />
 </div>
 
 ## How it works
