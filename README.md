@@ -5,7 +5,6 @@
 [![Generic badge](https://img.shields.io/badge/License-MIT-informational.svg)](https://github.com/VRLabs/Spring-Constraint/blob/main/LICENSE)
 [![Generic badge](https://img.shields.io/github/downloads/VRLabs/Spring-Constraint/total?label=Downloads)](https://github.com/VRLabs/Spring-Constraint/releases/latest)
 
-
 A constraint with spring behavior.
 
 ## How it works
