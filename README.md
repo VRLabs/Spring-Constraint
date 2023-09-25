@@ -10,7 +10,7 @@
 [![Generic badge](https://img.shields.io/discord/706913824607043605?color=%237289da&label=DISCORD&logo=Discord&style=for-the-badge)](https://discord.vrlabs.dev/)
 [![Generic badge](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dvrlabs%26type%3Dpatrons&style=for-the-badge)](https://patreon.vrlabs.dev/)
 
-A constraint system with spring behavior.
+A constraint system with spring behavior
 
 ![Alt text]()
 
@@ -23,20 +23,24 @@ A constraint system with spring behavior.
 
 ---
 
-
 ## How it works
 
 * The constraint is weighted between 3 sources to achieve a spring-like effect.
 
 ## Install Guide
+
 * Drag & drop the ``Spring Constraint`` prefab into the base of your Hierarchy.
 * Right click and unpack the prefab, then drag & drop it onto your avatar.
+* Expand the prefab hierarchy and find ``Spring Target``
+* Move ``Spring Target`` outside of ``Spring Constraint`` and place it anywhere in your avatars hierarchy as needed.
 
 ## How to use
-*  Replace the Cube under "Container" with your own objects.
-* To change the characteristics of the spring, change the position constraint values on the "Motion" object:
+
+* Place your objects inside ``Spring Constraints`` -> ``Container``.
+  * Alternatively you can constrain the objects to ``Container``.
+* To change the characteristics of the spring, change the position constraint values on the ``Motion`` object:
   * Sources > Spring Target (default 1.1) controls the strength of the spring. Higher values make it harder to stretch the spring. Min: 1, Max: 2
-  * Sources > Motion (default 4) dampens acceleration, the higher the value the slower "Container" accelerates.
+  * Sources > Motion (default 4) dampens acceleration, the higher the value the slower ``Container`` accelerates.
 
 ## Performance stats
 
