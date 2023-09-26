@@ -29,6 +29,8 @@ A constraint system with spring behavior
 
 ## Install Guide
 
+https://github.com/VRLabs/Spring-Constraint/assets/76777936/6a5056c7-9f47-4caf-bef0-8eae04f84613
+
 * Drag & drop the ``Spring Constraint`` prefab into the base of your Hierarchy.
 * Right click and unpack the prefab, then drag & drop it onto your avatar.
 * Expand the prefab hierarchy and find ``Spring Target``
