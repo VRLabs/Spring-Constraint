@@ -12,7 +12,7 @@
 
 A constraint system with spring behavior
 
-![Alt text]()
+![SpringConstraint](https://github.com/VRLabs/Spring-Constraint/assets/76777936/d5fec37e-261f-4cf9-93aa-1dd17e5c391d)
 
 ### ⬇️ [Download latest Unitypackage](https://github.com/VRLabs/Spring-Constraint/releases/latest)
 
