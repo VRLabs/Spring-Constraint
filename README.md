@@ -14,7 +14,7 @@ A constraint system with spring behavior
 
 ![SpringConstraint](https://github.com/VRLabs/Spring-Constraint/assets/76777936/0a21419d-49d6-4054-8265-9d25850dab11)
 
-### ⬇️ [Download latest Unitypackage](https://github.com/VRLabs/Spring-Constraint/releases/latest)
+### ⬇️ [Download Latest Version](https://github.com/VRLabs/Spring-Constraint/releases/latest)
 
 <!-- 
 ### 📦 [Add to VRChat Creator Companion]() -->
