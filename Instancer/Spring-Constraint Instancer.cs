@@ -18,7 +18,7 @@ namespace VRLabs.SpringConstraint
 			"package.json"
 		};
 
-		[MenuItem("VRLabs/Spring Constraint")]
+		[MenuItem("VRLabs/Create Instance/Spring Constraint")]
 		public static void FancyPackage()
 		{
 			Type instancerType = AppDomain.CurrentDomain.GetAssemblies()
