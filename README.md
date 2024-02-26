@@ -16,8 +16,8 @@ A constraint system with spring behavior
 
 ### ⬇️ [Download Latest Version](https://github.com/VRLabs/Spring-Constraint/releases/latest)
 
-<!-- 
-### 📦 [Add to VRChat Creator Companion]() -->
+
+### 📦 [Add to VRChat Creator Companion](https://vrlabs.dev/packages?package=dev.vrlabs.spring-constraint)
 
 </div>
 
