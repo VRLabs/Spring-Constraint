@@ -36,6 +36,9 @@ https://github.com/VRLabs/Spring-Constraint/assets/76777936/6a5056c7-9f47-4caf-b
 * Expand the prefab hierarchy and find ``Spring Target``
 * Move ``Spring Target`` outside of ``Spring Constraint`` and place it anywhere in your avatars hierarchy as needed.
 
+> [!NOTE]  
+> When building for Quest, you will have to remove unsupported components and shaders
+
 ## How to use
 
 * Place your objects inside ``Spring Constraints`` -> ``Container``.
